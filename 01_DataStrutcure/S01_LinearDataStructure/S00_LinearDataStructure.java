@@ -1,8 +1,10 @@
+package S01_LinearDataStructure;
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
-public class LinearDataStructure {
+public class S00_LinearDataStructure {
     public static void main(String[] args) {
 
 
